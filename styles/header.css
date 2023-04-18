@@ -1,3 +1,4 @@
+
 header {
   background-color: var(--branco);
   display: flex;
@@ -40,6 +41,7 @@ header {
 
 .menu-lista-titulo {
   color: var(--amarelo-titulos);
+  font-weight: 700;
 }
 
 .menu-lista-item {
@@ -56,4 +58,8 @@ header {
 
 .menu-botao:checked~.menu-lista {
   display: block;
+}
+
+.menu-botao {
+  display: none;
 }
