@@ -1,0 +1,30 @@
+.topicos {
+  background: var(--degrade-azul);
+  text-align: center;
+  padding: 1em 0;
+}
+
+.topicos h2 {
+  font-size: 16px;
+  font-weight: 300;
+  color: var(--branco);
+}
+
+.topicos ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.topicos li {
+  margin: 2em 0.5em
+} 
+
+.topicos a {
+  color: var(--branco);
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: var(--amarelo-titulos);
+  padding: 1em;
+}

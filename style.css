@@ -5,6 +5,8 @@
 @import url(styles/carrosel.css);
 @import url(styles/best-sellers.css);
 @import url(styles/topics.css);
+@import url(styles/newsletter.css);
+@import url(styles/footer.css);
 
 :root {
   --cor-de-fundo: #EBECEE;
