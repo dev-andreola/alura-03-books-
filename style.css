@@ -2,11 +2,16 @@
 
 @import url(styles/header.css);
 @import url(styles/banner.css);
+@import url(styles/carrosel.css);
+@import url(styles/best-sellers.css);
+@import url(styles/topics.css);
 
 :root {
   --cor-de-fundo: #EBECEE;
   --branco: #FFFFFF;
+  --preto: #000000;
   --amarelo-titulos: #EB9B00;
+  --azul: #002F52;
   --degrade-azul: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
 
   --fonte: 'Poppins', sans-serif;
